@@ -9,3 +9,5 @@
 先运行server.py文件，后对client_asyn.py文件进行任务多开即可分布式运行此同步联邦学习代码。
 
 从网盘链接 https://pan.baidu.com/s/1yjCV9hIBEjyykSP7pfsF7A?pwd=3mg3 （提取码: 3mg3）下载数据集文件，放在niid1目录下，代码即可运行。
+
+有相关问题可联系作者：Wanglian7@outlook.com
